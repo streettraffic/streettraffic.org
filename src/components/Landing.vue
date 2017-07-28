@@ -5,7 +5,7 @@
       h6.white--text Monitor the traffic flow of your favorite routes, cities and more!
       div.mt-5
         v-btn(light large tag="a" href="https://github.com/streettraffic/streettraffic").grey.lighten-2 Github
-        v-btn(light large tag="a" href="https://streettraffic.github.io/docindex.html").green.lighten-2 Get Started
+        v-btn(light large tag="a" href="https://streettraffic.github.io/docs/docindex.html").green.lighten-2 Get Started
 
 </template>
 
